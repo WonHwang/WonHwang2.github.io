@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'S-CoreDream-8Heavy';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-8Heavy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+header {
+    position: sticky;
+}
+
+body {
+    background-color : #E6E6E6;
+}
+.main {
+    height: 80vh;
+    background-image: url('./school.jpg');
+    background-position: center;
+    background-size: 80% 100%;
+    font-family : 'S-CoreDream-8Heavy';
+    color : white;
+}
+.container{
+    font-family : 'S-CoreDream-8Heavy';
+    color : black;
+}
+#intro{
+    height : 300px;
+}
+
+#service{
+    height : 600px;
+}
+
+#footer{
+    background-color:#D8D8D8;
+    height: 50px;
+    font-size: 50px;
+    text-align: right;
+    padding-top: 15px;
+}
